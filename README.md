@@ -1,4 +1,4 @@
-# Java Two-Way Chat Application
+# Java Chat Application
 
 A simple two-way chat application using **Java Sockets** that allows a client and server to communicate in real time.
 
